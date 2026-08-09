@@ -32,8 +32,6 @@ Master's at FAU Erlangen-Nürnberg, and Python tooling at Siemens Mobility as a 
 
 ### Tools I reach for
 
-### Tools I reach for
-
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-0A101F?style=flat-square&logo=python&logoColor=A78BFA) ![C](https://img.shields.io/badge/C-0A101F?style=flat-square&logo=c&logoColor=A78BFA) ![C++](https://img.shields.io/badge/C%2B%2B-0A101F?style=flat-square&logo=cplusplus&logoColor=A78BFA) ![Java](https://img.shields.io/badge/Java-0A101F?style=flat-square&logo=openjdk&logoColor=A78BFA) ![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=A78BFA) ![SQL](https://img.shields.io/badge/SQL-0A101F?style=flat-square&logo=postgresql&logoColor=A78BFA)
 
