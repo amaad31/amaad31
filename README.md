@@ -18,7 +18,7 @@ My degree says Mechatronics. In practice it's almost all software, and what hold
 
 The Mechatronics half still pulls its weight: robotics, machine learning, embedded systems. A useful reminder that at some point the code has to move something real.
 
-Master's at FAU Erlangen-Nürnberg, and Python tooling at Siemens Mobility as a working student.
+Master's at FAU Erlangen-Nürnberg, and Software Developer for Test Automation at Siemens Mobility as a working student.
 
 ### Built and building
 
